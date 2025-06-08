@@ -1,0 +1,20 @@
+body {
+    background-color: #222222;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+    text-align: center;
+    background-color: blueviolet;
+}
+
+a:link {
+    color: #8fabf9;
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkslateblue;
+    text-decoration: none;
+}
