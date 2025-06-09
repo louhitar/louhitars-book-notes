@@ -18,3 +18,12 @@ a:visited {
     color: darkslateblue;
     text-decoration: none;
 }
+
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.contents {
+    max-width: 300px;
+}
