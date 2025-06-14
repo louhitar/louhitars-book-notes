@@ -22,8 +22,15 @@ a:visited {
 .wrapper {
     display: flex;
     justify-content: space-around;
+    gap: 16px;
 }
 
 .contents {
-    max-width: 300px;
+    width: 200px;
+    flex-shrink: 0;
+    padding: 16px;
+}
+
+.main {
+    padding: 16px;
 }
