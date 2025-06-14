@@ -9,6 +9,11 @@ body {
     background-color: blueviolet;
 }
 
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
 a:link {
     color: #8fabf9;
     text-decoration: none;
