@@ -15,6 +15,7 @@ h2, h3 {
 .header {
     display: flex;
     justify-content: space-between;
+    margin: 32px;
 }
 
 a:link {
@@ -29,7 +30,7 @@ a:visited {
 
 .wrapper {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     gap: 16px;
 }
 
@@ -38,8 +39,14 @@ a:visited {
     flex-shrink: 0;
     padding: 16px;
     background-color: #181825;
+    margin-left: 32px;
 }
 
 .main {
     padding: 16px;
+    flex: auto;
+}
+
+.cover {
+    margin-right: 32px;
 }
