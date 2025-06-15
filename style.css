@@ -55,3 +55,17 @@ a:visited {
     flex-direction: column;
     justify-content: center;
 }
+
+ul.info {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+b {
+    color: #bac2de;
+}
+
+li {
+    margin-bottom: 4px;
+}
